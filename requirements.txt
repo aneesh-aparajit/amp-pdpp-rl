@@ -1,3 +1,4 @@
 torch
 stable_baselines3[all]
 tensorboard
+pandas
